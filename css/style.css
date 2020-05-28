@@ -1,0 +1,25 @@
+body {
+    background: grey;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+header {
+    background: rgb(226, 164,164);
+    margin-top: 30px;
+}
+footer {
+    background: #DA1515;
+}
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
+img {
+    margin-bottom: 30px;
+    margin: 50px;
+}
